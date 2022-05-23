@@ -1,0 +1,27 @@
+_repo: Thoughts-upon-the-African-Slave-Trade_68056
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newton, John, M.R.C.S.E.
+    alias: Newton, John
+    gutenberg_agent_id: '39492'
+    url: http://www.gutenberg.org/2009/agents/39492
+description: ''
+gutenberg_issued: '2022-05-12'
+identifiers:
+  gutenberg: '68056'
+language: en
+pgterms:marc905: 20220212173716newton
+pgterms:marc906: '1792'
+pgterms:marc907: GB
+production_note: Archibald Ogden-Smith, Barry Abrahamsen, The Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :J. Buckland,1792.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thoughts upon the African Slave Trade
+url: http://www.gutenberg.org/ebooks/68056
